@@ -1,5 +1,3 @@
-
-
 This repository contains the code for the paper [*Individually Fair Rankings*](https://openreview.net/forum?id=71zCSP_HuBN) by Bower et al. The paper appeared at ICLR 2021.
 
 "fair_training_ranking.py": Contains the code to run SenSTIR. To run SenSTIR, use the "train_fair_nn" function. Look at the comments regarding its input.
